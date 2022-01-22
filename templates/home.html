@@ -1,0 +1,12 @@
+{% block content %}
+<div class="shadow p-3 mb-5 bg-white rounded">
+  <h1 style="color:rgb(0, 2, 5)">Welcome to the HP's Book Recommendation System</h1>
+  <h3 style="color:rgb(0, 3, 7)">Enter the Book name below :</h3>
+</div>
+
+  <form action="{{url_for('recommend')}}">
+    <input type="text" name="book" class="form-control" placeholder="Book name here">
+    <br>
+    <input type="submit" class="btn btn-info" value="Enter">
+  </form>
+{% endblock %}
