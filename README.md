@@ -4,6 +4,8 @@ This project is an extension to the Book Recommendation System (https://github.c
 
 The above project uses the Flask web frame to generate the model in an application form.
 
+App deployed on Heroku : https://book-recommendation-system-api.herokuapp.com/
+
 
 ### Files Details: 
 
