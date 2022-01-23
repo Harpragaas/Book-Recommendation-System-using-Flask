@@ -18,6 +18,7 @@ App deployed on Heroku : https://book-recommendation-system-api.herokuapp.com/
 
 
 ![Screenshot 2022-01-23 132648](https://user-images.githubusercontent.com/70749147/150662199-7c353ea4-188c-4c6b-924d-141bca4f4012.png)
+                                      
                                       Fig. Homepage for Book Recommendation System
 
 
@@ -27,4 +28,5 @@ App deployed on Heroku : https://book-recommendation-system-api.herokuapp.com/
 
 
 ![Screenshot 2022-01-23 132743](https://user-images.githubusercontent.com/70749147/150662245-b621241c-d55a-4bf3-977e-1cc2b9474ceb.png)
-Fig.                                                Recommended Books
+
+                                                Fig. Recommended Books
